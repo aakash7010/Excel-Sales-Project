@@ -19,3 +19,5 @@ Sales Dashboard built using Microsoft Excel with Pivot Tables and Data Analysis.
 
 ## 📂 Project File
 [Download Excel File](Sales_Project.xlsx)
+## 📸 Dashboard Preview
+![Dashboard](Screenshot%202026-06-11%20105010.png)
